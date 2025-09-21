@@ -1,0 +1,9 @@
+path: .
+train: /home/RDDChina-low-light/images/train
+val: /home/RDDChina-low-light/images/val
+#test: /home/china_d_m/images/test
+names:
+  0: D10
+  1: D00
+  2: D20
+  3: D40
